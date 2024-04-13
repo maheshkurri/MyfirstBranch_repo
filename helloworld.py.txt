@@ -1,2 +1,11 @@
 #This is my first Python program
 print ('Hello World');
+
+#Adding numbers
+a=2
+b=3
+
+sum = a+b
+
+#Display the sum
+print("The sum of {0} and {1}.format(a,b,sum))
